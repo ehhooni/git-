@@ -22,4 +22,6 @@ public class User {
     String email;
 
     String phoneNumber;
+
+    String name;
 }
